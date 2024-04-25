@@ -1,0 +1,10 @@
+D:\Shadowrun Launcher\Shadowrun Launcher\bin\Debug\Shadowrun Launcher.exe.config
+D:\Shadowrun Launcher\Shadowrun Launcher\bin\Debug\Shadowrun Launcher.exe
+D:\Shadowrun Launcher\Shadowrun Launcher\bin\Debug\Shadowrun Launcher.pdb
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun Launcher.csproj.AssemblyReference.cache
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun_Launcher.Properties.Resources.resources
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun Launcher.csproj.GenerateResource.cache
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun Launcher.csproj.CoreCompileInputs.cache
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun Launcher.exe
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun Launcher.pdb
+D:\Shadowrun Launcher\Shadowrun Launcher\obj\Debug\Shadowrun_Launcher.MainForm.resources
